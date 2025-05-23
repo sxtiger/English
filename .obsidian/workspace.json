@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "English Phrase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "English Phrase"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "da5464dfa24905c9",
   "lastOpenFiles": [
-    "English Phrase.md",
     "README.md",
+    "English Phrase.md",
     "English Phrase.xlsx",
     "md2excel.py",
     "欢迎.md"
