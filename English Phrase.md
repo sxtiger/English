@@ -1,7 +1,7 @@
 # 《Great Expectations》
 ## Day 01
-on one's back : （直直地）仰卧、卧病在床
-seem to do : 好象做某事、似乎做某事
+- on one's back : （直直地）仰卧、卧病在床
+- seem to do : 好象做某事、似乎做某事
 sit sb down : 使某人坐下
 as if : 好象、似乎
 darn me : 讨厌、可恶
