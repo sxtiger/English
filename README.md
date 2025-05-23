@@ -1,6 +1,9 @@
 # English
 something about study English
 
-# About md2excel.py
+# Update
+## 2025-05-23: exam.py
+- 功能：调用English Phrase.xlsx内容，自动生成50题测试选择题（中英文双向），测试结束后显示正确与错误题数，并列出错误答题
+## 2025-05-23: md2excel.py
+- 功能：将makedown文件English Phrase.md内容转换为Excel表格English Phrase.xlsx，方便学习使用
 - 需要安装依赖库：`pip install pandas openpyxl`
-- 功能：将makedown文件English Phrase.md内容转换为Excel表格，方便学习使用
