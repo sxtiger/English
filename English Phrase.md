@@ -2,13 +2,13 @@
 ## Day 01
 - on one's back : （直直地）仰卧、卧病在床
 - seem to do : 好象做某事、似乎做某事
-sit sb down : 使某人坐下
-as if : 好象、似乎
-darn me : 讨厌、可恶
-have half a mind to do : 可能会做、真想做
-so as to do : 为了做某事、以便做某事
-no matter how : 不管怎样
-strike sb dead : 杀死某人
+- sit sb down : 使某人坐下
+- as if : 好象、似乎
+- darn me : 讨厌、可恶
+- have half a mind to do : 可能会做、真想做
+- so as to do : 为了做某事、以便做某事
+- no matter how : 不管怎样
+- strike sb dead : 杀死某人
 ## Day02
 in one's eyes : 在某人看来
 look back over : 回头看
