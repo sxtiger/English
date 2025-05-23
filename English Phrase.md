@@ -1,4 +1,4 @@
-# 《Great Expectations》
+# 《Great Expectations远大前程（狄更斯）》
 ## Day 01
 - on one's back : （直直地）仰卧、卧病在床
 - seem to do : 好象做某事、似乎做某事
@@ -18,6 +18,24 @@
 - establish a reputation : 享有声誉
 - on the rampage : 横冲直撞、暴跳如雷
 - no more than :  仅仅、只不过
+## Day03
+- hard and fast : 不能变通的、不容更改的
+- make up one's mind : 下定决心
+- dive into... : 潜入...
+- now and then : 有时、偶尔
+- now or never : 要么现在，要么别做、机不可失
+- pounce on sb : 扑向某人
+- look on : 袖手旁观、在一看着
+- tell on/upon sb : 告发某人、说某人的坏话
+- out of breath : 喘不过气
+- make a dive at sb : 扑向某人
+- be thought of as : 被认为是
+- judge from... : 从...来看、根据...判断
+- add to... : 增加
+- drive sb out of one's mind : 使某人发疯、失去理智
+- frown at sb : 对某人皱眉
+- slip away : 逃走、悄悄溜走
+- leave...behind : 把...丢了
 ## Day45
 - make the best of one's way : 前往
 - except for : 除了
