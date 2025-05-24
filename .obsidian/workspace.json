@@ -151,7 +151,8 @@
               "title": "English Phrase 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,14 +171,14 @@
   },
   "active": "da5464dfa24905c9",
   "lastOpenFiles": [
+    "README.md",
+    "English Phrase.md",
     "webui.py",
     "app.py",
     "templates/index.html",
     "templates/result.html",
     "templates",
     "untitled folder",
-    "README.md",
-    "English Phrase.md",
     "English Phrase.xlsx",
     "md2excel.py",
     "欢迎.md"
