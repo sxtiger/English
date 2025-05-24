@@ -36,6 +36,26 @@
 - frown at sb : 对某人皱眉
 - slip away : 逃走、悄悄溜走
 - leave...behind : 把...丢了
+## Day04
+- hear of : 听说、得知
+- make nothing of : 不理解
+- all sorts of : 各种各样的
+- go upstairs : 上楼
+- call out to sb : 对某人呼喊、向某人大叫
+- go downstairs : 下楼
+- be apprenticed to : 拜师于、当...的学徒
+- to and fro : 来回地、往返地
+- die of : 死于、因...死
+## Day05
+- occur to sb : 被想到、出现在头脑中
+- put...away : 将....收起、积攒
+- alll the while : 一直、始终
+- have difficulty doing : 做某事很困难
+- all at once : 同时
+- here and there : 到处、在各处
+- take sth away : 带走某物、拿走某物
+- similarity between A and B : A和B之间的相似性
+- think of sb as sth/sb : 把...视为；把.....看作
 ## Day45
 - make the best of one's way : 前往
 - except for : 除了
