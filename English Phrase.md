@@ -56,6 +56,10 @@
 - at an end :  结束
 - rely on : 依赖
 ## Day47
-
+- in short : 简而言之、总之
+- press sb for sth : 极力劝说、催促某人某物
+- hold on to : 守住、保住
+- under one's breath : 低声地、小声地
+- catch my attention : 吸引我的注意
 
 
