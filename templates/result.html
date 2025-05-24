@@ -1,0 +1,42 @@
+<!-- templates/result.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>测试结果</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .result-summary { font-size: 24px; margin: 20px 0; }
+        .wrong-item { margin: 30px 0; padding: 20px; border: 1px solid #eee; }
+        .correct-answer { color: green; }
+        .wrong-answer { color: red; }
+    </style>
+</head>
+<body>
+    <div class="result-summary">
+        <h2>测试完成！</h2>
+        <p>正确：{{ correct }} 题</p>
+        <p>错误：{{ wrong }} 题</p>
+    </div>
+
+    {% if wrong > 0 %}
+    <div class="wrong-list">
+        <h3>错题解析：</h3>
+        {% for item in wrong_list %}
+        <div class="wrong-item">
+            <p><strong>题目：</strong>{{ item.question }}</p>
+            <p class="correct-answer"><strong>正确答案：</strong>{{ item.correct_answer }}</p>
+            <p class="wrong-answer"><strong>你的选择：</strong>{{ item.user_choice }}</p>
+            <div class="options">
+                <p><strong>所有选项：</strong></p>
+                <ol>
+                    {% for opt in item.options %}
+                    <li>{{ opt }}</li>
+                    {% endfor %}
+                </ol>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+</body>
+</html>
