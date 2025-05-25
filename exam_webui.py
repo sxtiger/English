@@ -1,71 +1,72 @@
-from flask import Flask, render_template, request, session
+from flask import Flask, render_template, request, session, redirect, url_for
 from flask_session import Session
 import pandas as pd
 import random
 import os
+import md2excel
 
-# 初始化Flask应用
 app = Flask(__name__)
-app.secret_key = os.urandom(24).hex()  # 生成随机密钥
+app.secret_key = os.urandom(24).hex()
 
-# 配置服务器端Session
+# 配置
 app.config.update(
     SESSION_TYPE='filesystem',
     SESSION_FILE_DIR='./flask_sessions',
     SESSION_COOKIE_NAME='lang_test',
-    PERMANENT_SESSION_LIFETIME=1800  # 30分钟有效期
+    PERMANENT_SESSION_LIFETIME=1800,
+    MD_FILE='English Phrase.md',
+    EXCEL_FILE='English Phrase.xlsx',
+    PORT=50000
 )
 Session(app)
 
-# 全局数据
-df = pd.read_excel('English Phrase.xlsx')
-phrases = df[['英文短语', '中文翻译']].to_dict('records')
 user_sessions = {}
 
-def initialize_test_data():
-    """ 生成测试题目和选项 """
-    test_data = []
-    for phrase in random.sample(phrases, min(50, len(phrases))):
-        # 随机决定题目类型（英译中/中译英）
-        is_english = random.choice([True, False])
-        
-        # 生成题目
-        if is_english:
-            question = phrase['英文短语']
-            correct_answer = phrase['中文翻译']
-            answer_pool = [p['中文翻译'] for p in phrases if p['中文翻译'] != correct_answer]
-        else:
-            question = phrase['中文翻译']
-            correct_answer = phrase['英文短语']
-            answer_pool = [p['英文短语'] for p in phrases if p['英文短语'] != correct_answer]
-        
-        # 生成选项
-        try:
-            wrong_answers = random.sample(answer_pool, 3)
-        except ValueError:
-            wrong_answers = answer_pool * 3
-        
-        options = [correct_answer] + wrong_answers[:3]
-        random.shuffle(options)
-        correct_index = options.index(correct_answer) + 1
-        
-        test_data.append({
-            'display': question,
-            'options': options,
-            'correct_index': correct_index,
-            'correct_answer': correct_answer
-        })
-    return test_data
+def get_question_count(max_count):
+    try:
+        count = int(request.form.get('question_count', 50))
+        return min(max(1, count), max_count)
+    except:
+        return min(50, max_count)
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    # 获取或创建用户会话
+    try:
+        total = md2excel.markdown_to_excel(
+            app.config['MD_FILE'], 
+            app.config['EXCEL_FILE']
+        )
+    except Exception as e:
+        return render_template('error.html', message=f"文件转换失败: {str(e)}")
+
+    if request.method == 'POST':
+        session['question_count'] = get_question_count(total)
+        return redirect(url_for('start_test'))
+    
+    return render_template('index.html', 
+                         total=total,
+                         default=min(50, total))
+
+@app.route('/test', methods=['GET', 'POST'])
+def start_test():
+    # 用户会话管理
     user_id = session.get('user_id')
     if not user_id or user_id not in user_sessions:
-        user_id = os.urandom(16).hex()  # 生成唯一用户ID
+        user_id = os.urandom(16).hex()
         session['user_id'] = user_id
+        
+        try:
+            df = pd.read_excel(app.config['EXCEL_FILE'])
+            phrases = df.to_dict('records')
+            test_data = random.sample(
+                phrases, 
+                min(session['question_count'], len(phrases))
+                )
+        except Exception as e:
+            return render_template('error.html', message=f"数据加载失败: {str(e)}")
+
         user_sessions[user_id] = {
-            'test_data': initialize_test_data(),
+            'test_data': test_data,
             'current': 0,
             'correct': 0,
             'wrong': 0,
@@ -73,55 +74,63 @@ def index():
         }
     
     user_data = user_sessions[user_id]
-    
-    # 处理答案提交
+
+    # 处理答案
     if request.method == 'POST':
-        process_answer(user_data)
-    
-    # 显示结果或下一题
+        current = user_data['current']
+        question = user_data['test_data'][current]
+        user_choice = request.form.get('answer', '-1')
+
+        if user_choice == str(question['correct_index']):
+            user_data['correct'] += 1
+        else:
+            user_data['wrong'] += 1
+            user_data['wrong_list'].append({
+                'question': question['display'],
+                'correct': question['correct_answer'],
+                'selected': question['options'][int(user_choice)-1] if user_choice.isdigit() else '无效选择',
+                'options': question['options']
+            })
+        user_data['current'] += 1
+
+    # 显示结果
     if user_data['current'] >= len(user_data['test_data']):
-        return show_result(user_data)
-    return show_question(user_data)
-
-def process_answer(user_data):
-    """ 处理用户答案 """
-    current = user_data['current']
-    question = user_data['test_data'][current]
-    user_choice = request.form.get('answer', '-1')
+        return render_template('result.html',
+                            correct=user_data['correct'],
+                            wrong=user_data['wrong'],
+                            wrong_list=user_data['wrong_list'],
+                            total=len(user_data['test_data']))
     
-    if user_choice == str(question['correct_index']):
-        user_data['correct'] += 1
+    # 生成新题目
+    current = user_data['current']
+    item = user_data['test_data'][current]
+    is_english = random.choice([True, False])
+    
+    if is_english:
+        question = item['英文短语']
+        correct = item['中文翻译']
+        pool = [p['中文翻译'] for p in user_data['test_data'] if p['中文翻译'] != correct]
     else:
-        user_data['wrong'] += 1
-        user_data['wrong_list'].append({
-            'question': question['display'],
-            'correct': question['correct_answer'],
-            'selected': question['options'][int(user_choice)-1] if user_choice.isdigit() else '无效选择',
-            'options': question['options']  # 确保包含选项列表
-        })
-    
-    user_data['current'] += 1
+        question = item['中文翻译']
+        correct = item['英文短语']
+        pool = [p['英文短语'] for p in user_data['test_data'] if p['英文短语'] != correct]
 
-def show_question(user_data):
-    """ 显示题目页面 """
-    current = user_data['current']
-    question = user_data['test_data'][current]
-    return render_template('index.html',
-                         question=question['display'],
-                         options=question['options'],
+    options = [correct] + random.sample(pool, 3)[:3]
+    random.shuffle(options)
+    item.update({
+        'display': question,
+        'options': options,
+        'correct_index': options.index(correct) + 1,
+        'correct_answer': correct
+    })
+
+    return render_template('test.html',
+                         question=question,
+                         options=options,
                          progress=current+1,
                          total=len(user_data['test_data']))
 
-def show_result(user_data):
-    """ 显示结果页面 """
-    return render_template('result.html',
-                         correct=user_data['correct'],
-                         wrong=user_data['wrong'],
-                         wrong_list=user_data['wrong_list'],
-                         total=len(user_data['test_data']))
-
 if __name__ == '__main__':
-    # 创建session存储目录
     if not os.path.exists(app.config['SESSION_FILE_DIR']):
         os.makedirs(app.config['SESSION_FILE_DIR'])
-    app.run(host='0.0.0.0', port=50000, debug=True)
+    app.run(host='0.0.0.0', port=app.config['PORT'], debug=True)
