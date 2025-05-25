@@ -3,7 +3,7 @@ something about study English
 
 # Update
 ## 2025-05-25 更改webui.py、增加维护maintenance.sh
-- 由于sessions大小限制导致出错，更改了主程序代码
+- 由于sessions大小限制导致出错，更改了主程序代码，网页端口号更改为50000，即`http://127.0.0.1:50000`
 - webUI.py更名为exam_webui.py，以利功能扩展
 - maintenance.sh
 	- 运行exam_webui.py会增加flask_sessions目录下文件，运行后删除过期的临时文件
