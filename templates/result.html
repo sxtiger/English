@@ -1,42 +1,54 @@
-<!-- templates/result.html -->
 <!DOCTYPE html>
 <html>
 <head>
     <title>测试结果</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-        .result-summary { font-size: 24px; margin: 20px 0; }
-        .wrong-item { margin: 30px 0; padding: 20px; border: 1px solid #eee; }
-        .correct-answer { color: green; }
-        .wrong-answer { color: red; }
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; padding: 20px; }
+        .summary { 
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        .wrong-item {
+            margin: 25px 0;
+            padding: 20px;
+            border: 1px solid #ffe3e3;
+            border-radius: 8px;
+            background: #fff5f5;
+        }
+        .correct { color: #28a745; font-weight: bold; }
+        .wrong { color: #dc3545; font-weight: bold; }
+        .options-list { margin-top: 10px; }
     </style>
 </head>
 <body>
-    <div class="result-summary">
+    <div class="summary">
         <h2>测试完成！</h2>
-        <p>正确：{{ correct }} 题</p>
-        <p>错误：{{ wrong }} 题</p>
+        <p class="correct">正确：{{ correct }} 题</p>
+        <p class="wrong">错误：{{ wrong }} 题</p>
+        <p>总分：{{ correct }}/{{ total }}</p>
     </div>
 
-    {% if wrong > 0 %}
-    <div class="wrong-list">
-        <h3>错题解析：</h3>
-        {% for item in wrong_list %}
-        <div class="wrong-item">
-            <p><strong>题目：</strong>{{ item.question }}</p>
-            <p class="correct-answer"><strong>正确答案：</strong>{{ item.correct_answer }}</p>
-            <p class="wrong-answer"><strong>你的选择：</strong>{{ item.user_choice }}</p>
-            <div class="options">
-                <p><strong>所有选项：</strong></p>
-                <ol>
-                    {% for opt in item.options %}
-                    <li>{{ opt }}</li>
-                    {% endfor %}
-                </ol>
-            </div>
+{% if wrong > 0 %}
+<div class="wrong-list">
+    <h3>错题解析：</h3>
+    {% for item in wrong_list %}
+    <div class="wrong-item">
+        <p><strong>题目：</strong>{{ item.question }}</p>
+        <p class="correct"><strong>正确答案：</strong>{{ item.correct }}</p>
+        <p class="wrong"><strong>你的选择：</strong>{{ item.selected }}</p>
+        <div class="options-list">
+            <strong>所有选项：</strong>
+            <ul>
+                {% for opt in item.options %}  <!-- 修正遍历方式 -->
+                <li>{{ opt }}</li>
+                {% endfor %}
+            </ul>
         </div>
-        {% endfor %}
     </div>
-    {% endif %}
+    {% endfor %}
+</div>
+{% endif %}
 </body>
 </html>
