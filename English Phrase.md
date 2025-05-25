@@ -56,6 +56,34 @@
 - take sth away : 带走某物、拿走某物
 - similarity between A and B : A和B之间的相似性
 - think of sb as sth/sb : 把...视为；把.....看作
+## Day06
+- be given to : 经常做、习惯于
+- in a favor of : 喜欢
+- rise up : 反抗
+- look up to sb : 敬仰、尊重
+- lead a life : 过某种生活
+- be beside oneself : 无法控制自己
+- on earth : 究竟、到底
+## Day07
+- stand open : 敝开着
+- what is wrose : 更糟糕的是
+- after you : 你先请
+- make out : （勉强）看出、辨认出
+- be in place : 准备妥当
+- sunken eyes : 凹陷的双眼
+- skin and bone : 瘦得皮包骨、瘦骨嶙峋
+- take note of : 注意到
+- regret to do sth : 很遗憾地做某事
+## Day08
+- get into trouble with sb : 与某人产生摩擦
+- glance at sb : 瞥了一眼某人
+- be absent from : 缺席、不在
+- bend down : 弯下
+- except for sth : 除...之外
+- drop into... : 陷入...
+- lift up : 鼓舞
+- bend over : 弯下腰
+- within and without : 里里外外、内部和外部
 ## Day45
 - make the best of one's way : 前往
 - except for : 除了
@@ -81,5 +109,13 @@
 - hold on to : 守住、保住
 - under one's breath : 低声地、小声地
 - catch my attention : 吸引我的注意
+## Day48
+- rest on sth : （目光）落在...上
+- pull sth back : 拉回、缩回
+- break off : 停顿、中断
+- at rest : 安心
+- a degree of... : 程度的...
+- be on friendly terms with sb : 与某人关系友好
+- 
 
 
