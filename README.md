@@ -1,7 +1,14 @@
-# English
+# English Study
 something about study English
 
 # Update
+## 2025-05-25 更改webui.py、增加维护maintenance.sh
+- 由于sessions大小限制导致出错，更改了主程序代码
+- webUI.py更名为exam_webui.py，以利功能扩展
+- maintenance.sh
+	- 运行exam_webui.py会增加flask_sessions目录下文件，运行后删除过期的临时文件
+	- 备份主xlsx文件
+	- 记录维护日志
 ## 2025-05-24: webui.py
 - 功能：增加网页版测试（其他与exam.py相同）
 -  安装依赖：`pip install flask pandas openpyxl`
