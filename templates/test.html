@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>语言测试</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; padding: 20px; }
+        .progress { font-size: 24px; color: #666; margin-bottom: 30px; }
+        .question { 
+            font-size: 36px; 
+            margin: 25px 0;
+            padding: 15px;
+            border-left: 4px solid #007bff;
+            background: #f8f9fa;
+        }
+        .options { display: grid; gap: 12px; }
+        .option-btn {
+            font-size: 24px;
+            padding: 15px 20px;
+            border: 2px solid #dee2e6;
+            border-radius: 8px;
+            background: white;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-align: left;
+            font-size: 16px;
+        }
+        .option-btn:hover {
+            background: #007bff;
+            color: white;
+            border-color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="progress">进度：{{ progress }}/{{ total }}</div>
+    <div class="question">{{ question }}</div>
+    
+    <form method="POST" class="options">
+        {% for option in options %}
+        <button type="submit" 
+                name="answer" 
+                value="{{ loop.index }}"
+                class="option-btn">
+            {{ option }}
+        </button>
+        {% endfor %}
+    </form>
+</body>
+</html>
