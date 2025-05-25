@@ -173,14 +173,16 @@
   "lastOpenFiles": [
     "README.md",
     "English Phrase.md",
-    "webui.py",
-    "app.py",
-    "templates/index.html",
+    "maintenance.log",
+    "backups/2025-05/vocab_20250525.xlsx",
+    "backups/2025-05",
+    "backups/202505",
+    "backups",
+    "maintenance.sh",
+    "exam_webui.py",
+    "flask_sessions/055471893fcaf68e5baf2fb9fe40543c",
     "templates/result.html",
-    "templates",
-    "untitled folder",
-    "English Phrase.xlsx",
-    "md2excel.py",
+    "templates/index.html",
     "欢迎.md"
   ]
 }
