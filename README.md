@@ -11,7 +11,7 @@ something about study English
 	- 原index.html=test.html
 - requirements.txt:
 	- 需要的依赖，`pip install -r requirements.txt`
-- 目前核心文件架构：
+- 目前核心文件架构：  
 	├── exam_webui.py  
 	├── md2excel.py  
 	├── templates/  
