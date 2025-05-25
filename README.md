@@ -10,7 +10,7 @@ something about study English
 	- 从原index.html、result.html2个文件改为3个文件：index.html、test.html、reault.html
 	- 原index.html=test.html
 - requirements.txt:
-	- 需要的依赖，·pip install -r requirements.txt·
+	- 需要的依赖，`pip install -r requirements.txt`
 ## 2025-05-25: 更改webui.py、增加维护maintenance.sh
 - 由于sessions大小限制导致出错，更改了主程序代码，网页端口号更改为50000，即`http://127.0.0.1:50000`
 - webUI.py更名为exam_webui.py，以利功能扩展
