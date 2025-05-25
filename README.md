@@ -13,15 +13,15 @@ something about study English
 	- 需要的依赖，`pip install -r requirements.txt`
 - 目前核心文件架构：  
 	```
-	├── exam_webui.py  
-	├── md2excel.py  
-	├── templates/  
+	├── exam_webui.py  #网页测试文件  
+	├── md2excel.py    #takedown文件内容转换为Excel文件  
+	├── templates/     #网页模板  
 	│   ├── index.html  
 	│   ├── test.html  
 	│   └── result.html  
-	├── requirements.txt  
-	├── English Phrase.md  
-	└── English Phrase.xlsx
+	├── requirements.txt  #依赖  
+	├── English Phrase.md  #makedown文件  
+	└── English Phrase.xlsx  #Excel文件  
 	```
 ## 2025-05-25: 更改webui.py、增加维护maintenance.sh
 - 由于sessions大小限制导致出错，更改了主程序代码，网页端口号更改为50000，即`http://127.0.0.1:50000`
