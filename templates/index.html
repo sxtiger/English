@@ -1,49 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>语言测试</title>
+    <title>测试设置</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; padding: 20px; }
-        .progress { font-size: 24px; color: #666; margin-bottom: 30px; }
-        .question { 
-            font-size: 36px; 
-            margin: 25px 0;
-            padding: 15px;
-            border-left: 4px solid #007bff;
-            background: #f8f9fa;
+        body { max-width: 800px; margin: 50px auto; padding: 20px; }
+        .form-group { margin: 20px 0; }
+        input[type="number"] { 
+            width: 120px; 
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
         }
-        .options { display: grid; gap: 12px; }
-        .option-btn {
-            font-size: 24px;
-            padding: 15px 20px;
-            border: 2px solid #dee2e6;
-            border-radius: 8px;
-            background: white;
-            cursor: pointer;
-            transition: all 0.2s;
-            text-align: left;
-            font-size: 16px;
-        }
-        .option-btn:hover {
+        button {
+            padding: 10px 25px;
             background: #007bff;
             color: white;
-            border-color: #007bff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
         }
     </style>
 </head>
 <body>
-    <div class="progress">进度：{{ progress }}/{{ total }}</div>
-    <div class="question">{{ question }}</div>
-    
-    <form method="POST" class="options">
-        {% for option in options %}
-        <button type="submit" 
-                name="answer" 
-                value="{{ loop.index }}"
-                class="option-btn">
-            {{ option }}
-        </button>
-        {% endfor %}
+    <h1>当前题库数据量：{{ total }} 条</h1>
+    <form method="POST">
+        <div class="form-group">
+            <label>测试题目数量（1-{{ total }}）：</label>
+            <input type="number" name="question_count" 
+                   min="1" max="{{ total }}" 
+                   value="{{ default }}">
+        </div>
+        <button type="submit">开始测试</button>
     </form>
 </body>
 </html>
