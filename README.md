@@ -12,7 +12,7 @@ something about study English
 	├── templates/     #网页模板  
 	│   ├── index.html  
 	│   ├── test.html  
-	│	├── error.html  
+	│   ├── error.html  
 	│   └── result.html  
 	├── requirements.txt  #依赖  
 	├── English Phrase.md  #makedown文件  
