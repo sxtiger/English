@@ -116,6 +116,15 @@
 - at rest : 安心
 - a degree of... : 程度的...
 - be on friendly terms with sb : 与某人关系友好
-- 
+## Day49
+- drop on one's knees : 跪下
+- press one's hand : 紧握某人的手
+- in the hope that : 抱着...的希望
+- bend over : 俯身
+- cut sb off from sth : 使...与外界隔绝
+- look upon sb : （以某种方式）看（对）待某人
+- promise to be : 预计会、预示会
+- send for sb : 请某人来帮忙
+- lay sth waste : 完全摧毁、使荒芜
 
 
