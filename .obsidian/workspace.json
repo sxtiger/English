@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Phrase.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English Phrase"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Phrase.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "English Phrase 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Phrase.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "English Phrase 的大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -171,18 +171,19 @@
   },
   "active": "da5464dfa24905c9",
   "lastOpenFiles": [
-    "README.md",
     "English Phrase.md",
+    "flask_sessions/f286d1ddb3cc555336614a2dc7798e0e",
+    "__pycache__/md2excel.cpython-313.pyc",
+    "templates/test.html",
+    "requirements.txt",
+    "__pycache__/md2excel.cpython-311.pyc",
+    "__pycache__",
+    "README 1.md",
+    "README.md",
     "maintenance.log",
     "backups/2025-05/vocab_20250525.xlsx",
     "backups/2025-05",
     "backups/202505",
-    "backups",
-    "maintenance.sh",
-    "exam_webui.py",
-    "flask_sessions/055471893fcaf68e5baf2fb9fe40543c",
-    "templates/result.html",
-    "templates/index.html",
     "欢迎.md"
   ]
 }
