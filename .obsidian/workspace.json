@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Phrase.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English Phrase"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Phrase.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "English Phrase 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Phrase.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "English Phrase 的大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -169,13 +169,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eb9e4d572c17f8c7",
+  "active": "da5464dfa24905c9",
   "lastOpenFiles": [
+    "flask_sessions/e241eccae3c130f6d539cba46c6f3062",
+    "English Phrase.md",
     "backups/2025-05/vocab_20250526.xlsx",
     "flask_sessions/771e2d1bf6d480e2f7ecc52c5fed9d5a",
     "README.md",
     "flask_sessions/5fd1ad4ea314fa82ac569cf7ab5c242b",
-    "English Phrase.md",
     "flask_sessions/29be241b3600280fd6709be5a0abe598",
     "flask_sessions/d15e7d30dbf66a5d2c6f207ea0bd49e3",
     "flask_sessions/e7b95ae3111edbaedcd8c900bed7dd4d",
@@ -183,7 +184,6 @@
     "flask_sessions/b5aa915e83ad3fa2635a116ceb240887",
     "flask_sessions/dbd7ab0e080df24b0b0bd85e04c6d320",
     "flask_sessions/9ca8626fc5fbca3b714699554f0e259d",
-    "flask_sessions/6a722635b0c46b89131c3f8ec77f0e30",
     "README 1.md",
     "欢迎.md"
   ]
