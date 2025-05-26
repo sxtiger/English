@@ -84,6 +84,87 @@
 - lift up : 鼓舞
 - bend over : 弯下腰
 - within and without : 里里外外、内部和外部
+## Day09
+- know nothing of.... : 对...一无所知
+- look about sb : 环顾某人
+- in disgrace : 失宠的、不讨人喜欢的
+- hit upon : 突然想到
+- a sense of : ...的感觉
+- hold sth back : 抑制.、压制...
+- get rid of.. : 去掉...、除掉...、摆脱...
+- in spirits : 兴致勃勃
+- hold on : 坚持
+- spread out : 伸展、展开
+- look round : 四处环顾
+- out of one's view : 离开某人的视线
+- run from... : 逃避...、远离...
+- run toward... : 跑向...、朝...跑去
+- nothing less than : 完全
+- bring sb round : 使某人清醒过来、使某人醒悟过来
+- come to oneself : 清醒过来、醒悟过来
+- look down upon sb : 看不起某人、轻视某人
+## Day10
+- set off : 出发、动身
+- fall into a habit of : 养成…的习惯
+- at…length : 详尽地
+- all of a sudden : 突然
+- not so… as… : 不如...这么...、不像...那样….
+- be glad of : 为某事感激、庆幸有某物
+## Day11
+- wear away : 消逝、衰退
+- in confusion : 处于混乱状态
+- cover sth with sth : 用某物覆盖住某物
+- prepare sth for sth : 为某物准备某物
+- on occasion : 有时、间或、偶尔
+- speak of : 谈及、谈到
+- make no further effort to : 不再努力做...
+- a heap of ruin : 一堆废墟
+- in a state : 处于...状态
+- fix sth for sb : 为某人安排好某事
+## Day12
+- be under a spell : 中了魔法
+- wheel round : 快速转身
+- hit out at sb : 打（某人）
+- pull off :（通常指迅速地）脱下（衣服）
+- at once : 同时
+- come at sb : 扑向（某人）
+- do for sb : 杀死、严重伤害（某人）
+- on one's knees : 跪着、跪下
+## Day13
+- be apprenticed to sb : 当某人的学徒
+- in the hope that : 抱着….的希望
+- on the contrary : 恰恰相反
+- talk down to sb : 以高人一等的口气对（某人）说话
+- look on : 旁观
+- in regard to : 关于、至于
+- far from : 远非…、完全不...
+- ask after sb : 问候、问好
+- make a call on sb : 拜访（某人）
+## Day14
+- fix one's eyes upon sb./ sth. : 盯着某人/某物看
+- look round for… : 四处寻找…
+- manage to speak/say/smile/laugh etc  : 免强说几句；勉强笑一笑
+- break into... : 突然开始…
+- keep up with... : 赶上...
+- set aside : 留出
+- lean back : 往后靠
+- make the most of... : 充分利用…
+- turn to sb. for help : 向某人寻求帮助
+## Day15
+- combine…with... : 把...和…结合起来
+- let sb into one's secret : 让…知道某人的秘密、告诉…某人的秘密
+- bind sb to secrecy : 使某人严守秘密、使某人誓守秘密
+- be disgusted with… : 厌恶…、讨厌…
+- once for all : 完全地、彻底地、一劳永逸地
+- settle down : 定居、安顿下来
+- within reach : 触手可及的、可以触及的、够得着的
+- keep company with sb : 与…作伴
+- on one's account : 为了某人
+- win sb over : 把某人争取过来、赢得某人
+- gain sb over : 把某人争取过来、拉拢某人
+- be worth doing : 值得做某事
+- reason with sb : 和某人讲道理、劝说某人
+- get beyond sb : 超过某人
 ## Day45
 - make the best of one's way : 前往
 - except for : 除了
