@@ -2,6 +2,22 @@
 something about study English
 
 # Update
+## 2025-05-26: 修复测试题小于4个时的错误
+- 修改exam_webui.py
+- 增加error.html模板
+-  目前核心文件架构：  
+	```
+	├── exam_webui.py  #网页测试文件  
+	├── md2excel.py    #takedown文件内容转换为Excel文件  
+	├── templates/     #网页模板  
+	│   ├── index.html  
+	│   ├── test.html  
+	│	├── error.html  
+	│   └── result.html  
+	├── requirements.txt  #依赖  
+	├── English Phrase.md  #makedown文件  
+	└── English Phrase.xlsx  #Excel文件  
+
 ## 2025-05-25: exam_webui.py、templates、requirements.txt
 - exam_webui.py修改：
 	- 增加功能：在测试前先将English Phrase.md转换一次成English Phrase.xlsx，以保持数据最新；
