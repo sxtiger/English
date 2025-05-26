@@ -1,5 +1,5 @@
 # 《Great Expectations远大前程（狄更斯）》
-## Day 01
+## Day 01(9)
 - on one's back : （直直地）仰卧、卧病在床
 - seem to do : 好象做某事、似乎做某事
 - sit sb down : 使某人坐下
@@ -9,7 +9,7 @@
 - so as to do : 为了做某事、以便做某事
 - no matter how : 不管怎样
 - strike sb dead : 杀死某人
-## Day02
+## Day02(8)
 - in one's eyes : 在某人看来
 - look back over : 回头看
 - on the edge of : 在...的边上
@@ -18,7 +18,7 @@
 - establish a reputation : 享有声誉
 - on the rampage : 横冲直撞、暴跳如雷
 - no more than :  仅仅、只不过
-## Day03
+## Day03(17)
 - hard and fast : 不能变通的、不容更改的
 - make up one's mind : 下定决心
 - dive into... : 潜入...
@@ -36,7 +36,7 @@
 - frown at sb : 对某人皱眉
 - slip away : 逃走、悄悄溜走
 - leave...behind : 把...丢了
-## Day04
+## Day04(9)
 - hear of : 听说、得知
 - make nothing of : 不理解
 - all sorts of : 各种各样的
@@ -46,7 +46,7 @@
 - be apprenticed to : 拜师于、当...的学徒
 - to and fro : 来回地、往返地
 - die of : 死于、因...死
-## Day05
+## Day05(9)
 - occur to sb : 被想到、出现在头脑中
 - put...away : 将....收起、积攒
 - alll the while : 一直、始终
@@ -56,7 +56,7 @@
 - take sth away : 带走某物、拿走某物
 - similarity between A and B : A和B之间的相似性
 - think of sb as sth/sb : 把...视为；把.....看作
-## Day06
+## Day06(7)
 - be given to : 经常做、习惯于
 - in a favor of : 喜欢
 - rise up : 反抗
@@ -64,7 +64,7 @@
 - lead a life : 过某种生活
 - be beside oneself : 无法控制自己
 - on earth : 究竟、到底
-## Day07
+## Day07(9)
 - stand open : 敝开着
 - what is wrose : 更糟糕的是
 - after you : 你先请
@@ -74,7 +74,7 @@
 - skin and bone : 瘦得皮包骨、瘦骨嶙峋
 - take note of : 注意到
 - regret to do sth : 很遗憾地做某事
-## Day08
+## Day08(9)
 - get into trouble with sb : 与某人产生摩擦
 - glance at sb : 瞥了一眼某人
 - be absent from : 缺席、不在
@@ -84,7 +84,7 @@
 - lift up : 鼓舞
 - bend over : 弯下腰
 - within and without : 里里外外、内部和外部
-## Day09
+## Day09(18)
 - know nothing of.... : 对...一无所知
 - look about sb : 环顾某人
 - in disgrace : 失宠的、不讨人喜欢的
@@ -103,14 +103,14 @@
 - bring sb round : 使某人清醒过来、使某人醒悟过来
 - come to oneself : 清醒过来、醒悟过来
 - look down upon sb : 看不起某人、轻视某人
-## Day10
+## Day10(6)
 - set off : 出发、动身
 - fall into a habit of : 养成…的习惯
 - at…length : 详尽地
 - all of a sudden : 突然
 - not so… as… : 不如...这么...、不像...那样….
 - be glad of : 为某事感激、庆幸有某物
-## Day11
+## Day11(10)
 - wear away : 消逝、衰退
 - in confusion : 处于混乱状态
 - cover sth with sth : 用某物覆盖住某物
@@ -121,7 +121,7 @@
 - a heap of ruin : 一堆废墟
 - in a state : 处于...状态
 - fix sth for sb : 为某人安排好某事
-## Day12
+## Day12(8)
 - be under a spell : 中了魔法
 - wheel round : 快速转身
 - hit out at sb : 打（某人）
@@ -130,7 +130,7 @@
 - come at sb : 扑向（某人）
 - do for sb : 杀死、严重伤害（某人）
 - on one's knees : 跪着、跪下
-## Day13
+## Day13(9)
 - be apprenticed to sb : 当某人的学徒
 - in the hope that : 抱着….的希望
 - on the contrary : 恰恰相反
@@ -140,7 +140,7 @@
 - far from : 远非…、完全不...
 - ask after sb : 问候、问好
 - make a call on sb : 拜访（某人）
-## Day14
+## Day14(9)
 - fix one's eyes upon sb./ sth. : 盯着某人/某物看
 - look round for… : 四处寻找…
 - manage to speak/say/smile/laugh etc  : 免强说几句；勉强笑一笑
@@ -150,7 +150,7 @@
 - lean back : 往后靠
 - make the most of... : 充分利用…
 - turn to sb. for help : 向某人寻求帮助
-## Day15
+## Day15(14)
 - combine…with... : 把...和…结合起来
 - let sb into one's secret : 让…知道某人的秘密、告诉…某人的秘密
 - bind sb to secrecy : 使某人严守秘密、使某人誓守秘密
@@ -165,7 +165,7 @@
 - be worth doing : 值得做某事
 - reason with sb : 和某人讲道理、劝说某人
 - get beyond sb : 超过某人
-## Day45
+## Day45(10)
 - make the best of one's way : 前往
 - except for : 除了
 - that is to say : 那就是说、换言之
@@ -176,7 +176,7 @@
 - see for oneself : 亲自去看
 - impress sth upon sb : 强调
 - get hold of : 得到
-## Day46
+## Day46(7)
 - select sth from sth : 从...中选择、从...挑选
 - lie low : 躲藏、不露面
 - be in the habit of doing sth :  有做某事的习惯
@@ -184,20 +184,20 @@
 - suspect sb of doing sth : 怀疑某人做某事
 - at an end :  结束
 - rely on : 依赖
-## Day47
+## Day47(5)
 - in short : 简而言之、总之
 - press sb for sth : 极力劝说、催促某人某物
 - hold on to : 守住、保住
 - under one's breath : 低声地、小声地
 - catch my attention : 吸引我的注意
-## Day48
+## Day48(6)
 - rest on sth : （目光）落在...上
 - pull sth back : 拉回、缩回
 - break off : 停顿、中断
 - at rest : 安心
 - a degree of... : 程度的...
 - be on friendly terms with sb : 与某人关系友好
-## Day49
+## Day49(9)
 - drop on one's knees : 跪下
 - press one's hand : 紧握某人的手
 - in the hope that : 抱着...的希望
