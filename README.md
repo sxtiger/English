@@ -2,6 +2,10 @@
 something about study English
 
 # Update
+## 2025-05-27: 增加错题记录
+- 修改exam_webui.py、index.htm文件
+- 对答错的题目记录到excel文件中
+- 在测试时可选择正常测试、或错误测试
 ## 2025-05-26: 修复测试题小于4个时的错误
 - 修改exam_webui.py
 - 增加error.html模板

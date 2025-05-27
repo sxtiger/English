@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>测试设置</title>
+    <style>
+        body { max-width: 800px; margin: 50px auto; padding: 20px; }
+        .form-group { margin: 20px 0; }
+        input[type="number"] {
+            width: 120px;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        button {
+            padding: 10px 25px;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
+    <script>
+    function validateInput() {
+        const total = {{ total|default(0) }};
+        const input = document.querySelector('input[name="question_count"]');
+        let value = parseInt(input.value) || 50;
+        
+        value = Math.max(1, Math.min(value, total));
+        input.value = value;
+        
+        if(total < 4) {
+            alert('温馨提示：当前题库数据量较少，测试时可能出现重复选项');
+        }
+        return true;
+    }
+    </script>
+</head>
+<body>
+    <h1>当前题库数据量：{{ total }} 条</h1>
+    <form method="POST" action="{{ url_for('start_test') }}" onsubmit="return validateInput()">
+        <div class="form-group">
+            <label>测试题目数量（1-{{ total }}）：</label>
+            <input type="number" name="question_count"
+                   min="1" max="{{ total }}"
+                   value="{{ default }}">
+        </div>
+        <button type="submit">开始测试</button>
+    </form>
+</body>
+</html>
