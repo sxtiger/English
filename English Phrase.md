@@ -246,7 +246,7 @@
 - at a loss : 不知所措、困惑
 ## Day24(10)
 - at heart : 本质上、实际上
-- be devoted to sb : 深愛看某人
+- be devoted to sb : 深爱着某人
 - up to : 直到
 - come out : 显露
 - take advantage of sb : （不公正地）利用某人
@@ -482,5 +482,15 @@
 - promise to be : 预计会、预示会
 - send for sb : 请某人来帮忙
 - lay sth waste : 完全摧毁、使荒芜
+## Day50(9)
+- ease one's mind : 使某人心安
+- close in : （敌人、夜、黑暗等）逼近
+- be suited to : 适合
+- make one's way to : 前往
+- hold down : 控制某人的自由、使某人屈从
+- break out : 爆发
+- take responsibility for : 负责
+- speak of : 谈到、谈及
+- set in : 开始
 
 
