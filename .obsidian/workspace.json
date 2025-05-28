@@ -171,6 +171,11 @@
   },
   "active": "da5464dfa24905c9",
   "lastOpenFiles": [
+    "cert.pem",
+    "privkey.pem",
+    "flask_sessions/bb56eb91f17845bfc0e9d59d5c0c63ed",
+    "flask_sessions/a12de4a42a822afaa1e9db193745e892",
+    "flask_sessions/71d56162b3e1162a1627a87e698c2f43",
     "flask_sessions/079b4972b3f19b22bc3abb6eeb6a34dd",
     "Error_Phrases.xlsx",
     "English Phrase.md",
@@ -179,11 +184,6 @@
     "backups/2025-05/exam_webui_无错题测试.py",
     "backups/2025-05/exam_webui0.py",
     "backups/index_无错题测试.html",
-    "backups/index0.html",
-    "flask_sessions/d8f41919257d2c8c0de35f0b5b1c61ed",
-    "flask_sessions/83e8631a605fd8eb883519974a9fc4cd",
-    "flask_sessions/8b2903b062bfefcfc742509bf76fcd6f",
-    "flask_sessions/590692e47b588bc6ec4577ee5c04d672",
     "README 1.md",
     "欢迎.md"
   ]
