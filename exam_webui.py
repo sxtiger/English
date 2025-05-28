@@ -24,7 +24,7 @@ app.config.update(
     MD_FILE='English Phrase.md',
     EXCEL_FILE='English Phrase.xlsx',
     ERROR_EXCEL='Error_Phrases.xlsx',
-    PORT=50000
+    PORT=50001
 )
 Session(app)
 
