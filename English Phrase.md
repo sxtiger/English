@@ -492,5 +492,8 @@
 - take responsibility for : 负责
 - speak of : 谈到、谈及
 - set in : 开始
-
-
+## Day51(4)
+- be grateful for sth : 对...感激
+- by all means : 尽一切办法
+- have trouble with... : 与某人产生纠纷
+- bring ... into one's mind : 让某人想起...
