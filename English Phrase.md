@@ -416,7 +416,7 @@
 - put up : 收起
 - on the spot : 立即、马上
 - work to do sth. : 争取做某事
-- link one's arm : 挽住某人的格膊
+- link one's arm : 挽住某人的胳膊
 - to and fro : 往返地、来回地
 - see sth out : 坚持到某事结束
 - present oneself at : 出现、到场
