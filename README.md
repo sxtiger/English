@@ -2,6 +2,11 @@
 something about study English
 
 # Update
+## 2025-05-28: （临时）开放外网端口
+- 端口冲突，修改为50001
+- 临时为学习需要，开放外网端口
+- 配置了SSL证书
+- 用https://127.0.0.1:50001访问（外网：https://域名:50001)
 ## 2025-05-27: 增加错题记录
 - 修改exam_webui.py、index.htm文件
 - 对答错的题目记录到excel文件中
