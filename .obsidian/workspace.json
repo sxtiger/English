@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "English Phrase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "English Phrase"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "English Phrase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "English Phrase 的反向链接列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "English Phrase.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "English Phrase 的大纲"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "da5464dfa24905c9",
   "lastOpenFiles": [
+    "README.md",
     "cert.pem",
     "privkey.pem",
     "flask_sessions/bb56eb91f17845bfc0e9d59d5c0c63ed",
@@ -179,11 +180,9 @@
     "flask_sessions/079b4972b3f19b22bc3abb6eeb6a34dd",
     "Error_Phrases.xlsx",
     "English Phrase.md",
-    "README.md",
     "backups/exam_webui_无错题测试.py",
     "backups/2025-05/exam_webui_无错题测试.py",
     "backups/2025-05/exam_webui0.py",
-    "backups/index_无错题测试.html",
     "README 1.md",
     "欢迎.md"
   ]
