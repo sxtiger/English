@@ -1,3 +1,53 @@
+# 《The unlikely pilgrimage of Harold Fry一个人的朝圣（蕾秋·乔伊斯）》
+## Day01(5)
+- take up : 继续、把...接着进行下去
+- as if : 好像
+- good Lord : 天哪
+- blow one's nose : 擤鼻子
+- buy sth up : 大量买进
+## Day02(2)
+- at length : 长久地、长时间地
+- pass away : 去世、离世
+## Day03(3)
+- might as well : 不妨
+- get on : 继续做
+- in effect : 实际上、事实上
+## Day04(3)
+- turn （from sth） into sth : 变成某事物
+- go for sth : 努力争取
+- come across : 偶然发现、偶然遇见
+## Day05(4)
+- catch someone's eye : 被看到
+- drag one's feet : 拖着脚步走
+- over and over again : 再三地、重复地
+- thick with : 充満的、密布的
+## Day06(6)
+- set off : 动身、出发、启程
+- let sb/sth down : 使失望、辜负（别人的信任或期望）
+- in turn : 相应地
+- occur to sb : （主意或想法突然）浮现于脑中、被想起、被想到
+- eat in : 在家吃饭
+- run out of : 用完、耗尽
+## Day07(4)
+- in case : 以防万一、免得
+- head off L 动身（去别处）
+- eat up : 吃光、吃完
+- in the midst of sth : 在某事的进行过程中
+## Day08(4)
+- set out : 动身、出发、启程
+- let alone : 更別提
+- at sb's request : 应某人的要求
+- quench one's thirst : 解渴、止渴
+## Day09(4)
+- peer at : （通常因难以看清）盯着看、凝视、端详
+- look up : （在书、计算机等中）查找、查阅
+- long since : 很久以前、早已...
+- take hold of : 抓住、拿着、握着、握住
+## Day10(4)
+- in general : 普遍地、总的说来
+- to sb's horror : 让某人大为惊恐
+- （every） once in a while : 偶尔、有时、间或
+- work sth out : 计算出（答案、数量、价格等）
 # 《Great Expectations远大前程（狄更斯）》
 ## Day 01(9)
 - on one's back : （直直地）仰卧、卧病在床
