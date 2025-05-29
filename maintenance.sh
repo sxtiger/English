@@ -34,9 +34,11 @@ mkdir -p "$backup_dir" || {
 
 # 备份文件
 cp -v "English Phrase.xlsx" "${backup_dir}/vocab_$(date +%Y%m%d).xlsx"
+cp -v "English Phrase.md" "${backup_dir}/vocab_$(date +%Y%m%d).md"
 
 # 3. 清理旧备份（保留30天）
 find "$backup_root" -name "*.xlsx" -mtime +30 -exec rm -v {} \;
+find "$backup_root" -name "*.md" -mtime +30 -exec rm -v {} \;
 
 echo "=== 维护完成 ==="
 
