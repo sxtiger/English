@@ -497,3 +497,12 @@
 - by all means : 尽一切办法
 - have trouble with... : 与某人产生纠纷
 - bring ... into one's mind : 让某人想起...
+## Day52(8)
+- hunt sth. down : 找到、搜捕
+- be keen to do sth. : 热衷于做某事、渴望做某事
+- take pity on sb. : 同情某人
+- take time : 花费时间
+- let it rest : 让事情结束
+- provide sth. for sb. : 为某人准备某物
+- in existence : 存在
+- put a case : 提出假设
