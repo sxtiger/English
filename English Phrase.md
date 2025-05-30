@@ -124,7 +124,7 @@
 ## Day28(1)
 - search sth out : 找到、发现
 ## Day29(3)
-- go on（ : 短暂停顿后）继续说
+- go on : （短暂停顿后）继续说
 - up and down : 来回、往复
 - at least : （用于对否定情况补充肯定的评论）起码
 ## Day30(6)
