@@ -950,3 +950,12 @@
 - provide sth. for sb. : 为某人准备某物
 - in existence : 存在
 - put a case : 提出假设
+## Day53(8)
+- give birth : 生孩子
+- take sb in : 收留、留宿
+- set sb free : 释放某人
+- for sb's sake : 为了某人的缘故
+- keep sth down : 抑制某事物的增长、使保持在低水平
+- break out : （不愉快之事）爆发、突然发生
+- establish a small branch-house : 建立一个小的分公司
+- take charge of : 掌管...
