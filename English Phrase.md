@@ -88,14 +88,14 @@
 ## Day19(3)
 - get at sb/sth : 到达某处、接近某人（或某物）、够得着某物
 - to sb's relief : 让某人宽心的是
-- go on（ : 停顿后）继续说、接着讲
+- go on : (停顿后）继续说、接着讲
 ## Day20(2)
 - contrary to : 与.......相反、与......背道而驰、违反
 - out of place : 不适当的、不相称的
 ## Day21(3)
-- maiden name（ : 已婚女子的）娘家姓、婚前姓
+- maiden name : (已婚女子的）娘家姓、婚前姓
 - better still : 更（愈加）好
-- hunch one's shoulders（ : 因寒冷、焦虑等）耸起双肩
+- hunch one's shoulders : （因寒冷、焦虑等）耸起双肩
 ## Day22(3)
 - be about to do sth : 即将（马上）做某事
 - stick to : 坚持不变
@@ -119,7 +119,7 @@
 - hold sth out : 伸出手（或格膊）；递出东西
 - remindsb of sb/sth : 使想起（类似的人、地方、事物等）
 ## Day27(2)
-- go on（ : 短暂停顿后）继续说
+- go on : （短暂停顿后）继续说
 - after all : 毕竟、终归
 ## Day28(1)
 - search sth out : 找到、发现
@@ -628,7 +628,7 @@
 - address sth to sb : 向某人提出...
 - be forbidden to do : 被禁止做某事
 - make an inquiry : 调查、打听
-- a sum of money : 一笔銭
+- a sum of money : 一笔钱
 - take up : 接受（建议或能得到的东西）
 - long for sth : 渴望...
 - have knowledge of : 知道、了解
