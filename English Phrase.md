@@ -959,3 +959,12 @@
 - break out : （不愉快之事）爆发、突然发生
 - establish a small branch-house : 建立一个小的分公司
 - take charge of : 掌管...
+## Day54(8)
+- in the shade : 背阴处
+- set one's mind on sth : 一心想某事
+- cast off : （船）解缆启航
+- run down : 萎缩、衰减
+- lie by : 休息
+- roar out : 大声地说
+- be under lock and key : 被关着
+- not far out : 几乎正确
