@@ -968,3 +968,11 @@
 - roar out : 大声地说
 - be under lock and key : 被关着
 - not far out : 几乎正确
+## Day55(7)
+- look out for sth : 努力寻找、注意寻找
+- come in : （潮水）上涨；涨潮
+- come ashore : 上岸
+- put in for sth : 正式要求、申请
+- on the whole : 总的看来
+- settle to do sth : 决定做某事
+- decide against sth : 决定不...
