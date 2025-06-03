@@ -976,7 +976,7 @@
 - on the whole : 总的看来
 - settle to do sth : 决定做某事
 - decide against sth : 决定不...
-## Day5(7)
+## Day56(7)
 - ever and again : 时常、常常
 - but for : 若非、要不是
 - be merciful to : 对...仁慈
@@ -984,3 +984,9 @@
 - tell sb of sth : 告诉某人某事
 - set about : 着手做...、开始做...
 - in one's weak state : 在某人身体虚弱的状态下
+## Day57(5)
+- become of : 变成（怎么样）、遭遇 （如何）
+- go into : （详细）调查、讨论
+- in truth : 实际上、事实上、说实在话、老实话
+- fall into : 陷入（不 好的状态）
+- tear oneself away : 忍痛离开、忍痛分手

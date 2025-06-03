@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Phrase.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English Phrase"
+              "title": "README"
             }
           }
         ]
@@ -169,10 +169,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "da5464dfa24905c9",
+  "active": "eb9e4d572c17f8c7",
   "lastOpenFiles": [
-    "README.md",
     "English Phrase.md",
+    "README.md",
     "flask_sessions/66a9c16852dc744f614fa8bb8e93ebbe",
     "flask_sessions/bcba5d527775b2dde33d3bf3d766d500",
     "flask_sessions/cd9190ac504163970f46ffae369c36f5",
