@@ -990,3 +990,12 @@
 - in truth : 实际上、事实上、说实在话、老实话
 - fall into : 陷入（不 好的状态）
 - tear oneself away : 忍痛离开、忍痛分手
+## Day58(8)
+- without delay : 立即、毫不延迟地
+- be worthy of sb. : 可与某人相媲美、配得上
+- carry sth. out : 履行、实施、执行
+- turn out : 最终结果是、最终成为
+- come to pass : 发生、出现
+- long after : 很久以后
+- fear to do sth. :  害怕做某事
+- make sth. complete : 使某物圆满
