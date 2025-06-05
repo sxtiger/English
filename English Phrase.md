@@ -1007,3 +1007,10 @@
 - keep up a correspondence with sb : 与某人保持通信
 - to perfection : 完美地、恰到好处
 - sacred to the memory of : 为纪念...专用的
+## Day60(6)
+- go by : （时间）流逝
+- aware of : 知道
+- turn away : 把脸背过去
+- come up with : 想出、提出
+- take leave of : 向...告别
+- break the silence : 打破沉默
