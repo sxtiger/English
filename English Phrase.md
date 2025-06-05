@@ -999,3 +999,11 @@
 - long after : 很久以后
 - fear to do sth. :  害怕做某事
 - make sth. complete : 使某物圆满
+## Day59(7)
+- think better of sb : 对...有更高的评价
+- put aside : 存储（钱）
+- in full : 全部地
+- take on sth : 接受（工作）、承担责任
+- keep up a correspondence with sb : 与某人保持通信
+- to perfection : 完美地、恰到好处
+- sacred to the memory of : 为纪念...专用的
