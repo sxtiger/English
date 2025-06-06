@@ -1014,3 +1014,12 @@
 - come up with : 想出、提出
 - take leave of : 向...告别
 - break the silence : 打破沉默
+# 《Oliver Twist 雾都孤儿（狄更斯）》
+## Day61(7)
+- in the case : 既然如此、如果那样的话
+- be left up to sb : 被留给某人决定
+- now that : 既然、由于
+- be to do sth : 不可避免、注定发生
+- bring up : 养育、抚养
+- prove oneself sth : 显示（自己）是、向人证明（自己）是
+- the/a lack of sth : 缺乏、匮乏、短缺
