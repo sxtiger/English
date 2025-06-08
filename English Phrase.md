@@ -1033,4 +1033,4 @@
 - catch sight of ab/sth : 忽然看到某人/某物
 - a thousand : 许许多多
 - in case : 以防万一
-- burst into sth : 突然...起来（尤指开始唱歌、哭、笑等）
+- burst into sth : 突然...起来（尤指开始唱歌、哭、笑等） 
