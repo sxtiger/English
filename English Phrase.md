@@ -1023,3 +1023,14 @@
 - bring up : 养育、抚养
 - prove oneself sth : 显示（自己）是、向人证明（自己）是
 - the/a lack of sth : 缺乏、匮乏、短缺
+## Day62(10)
+- on account of : 由于、因为
+- be accompanied with sth : 伴随着....
+- drink one's health : 为...的健康干杯
+- draw oneself up : 伸直背部、挺直身子
+- with great pride : 自豪地
+- be about to do sth : 刚要做某事
+- catch sight of ab/sth : 忽然看到某人/某物
+- a thousand : 许许多多
+- in case : 以防万一
+- burst into sth : 突然...起来（尤指开始唱歌、哭、笑等）
