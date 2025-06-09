@@ -1034,3 +1034,13 @@
 - a thousand : 许许多多
 - in case : 以防万一
 - burst into sth : 突然...起来（尤指开始唱歌、哭、笑等） 
+## Day63(9)
+- wear off : 逐渐消失、消逝
+- at the sight of : 一看见（就）
+- make sb feel at home : 使某人感觉宾至如归
+- to be sure : 诚然、固然、不可否认
+- say one's prayers : 祷告
+- arrive at a decision : 做出决定
+- turn one's attention to sb/sth : 将注意力转向某人/某物
+- in full operation : 全面实行
+- get the short straw : 被派去干苦差(俗语：抽中下下签)
