@@ -1044,3 +1044,12 @@
 - turn one's attention to sb/sth : 将注意力转向某人/某物
 - in full operation : 全面实行
 - get the short straw : 被派去干苦差(俗语：抽中下下签)
+## Day64(8)
+- serve sth out : 分发、分配（食物）
+- hold on to sth : 抓紧某物
+- at length : 最后、终于
+- take sb off : 将某人带走
+- far from sth : 远非...
+- set one's mind to do sth : 下定决心做某事
+- cut sth to the bone : 把...削减到最低程度
+- carry out : 实施、执行
