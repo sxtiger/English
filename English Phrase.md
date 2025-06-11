@@ -1053,3 +1053,14 @@
 - set one's mind to do sth : 下定决心做某事
 - cut sth to the bone : 把...削减到最低程度
 - carry out : 实施、执行
+## Day65(10)
+- stop short : 突然停下
+- give...a look : 看了...一眼
+- hold on to : 紧紧抓住
+- in amazement : 惊愕地
+- beat...upon... : （用...）击打...
+- look in...face : 看着...的脸
+- mutter about : 小声念叨关于...
+- have the goodness to... : 劳驾；请（用于客气的请求）
+- look at.as if... : 看着...好像...
+- there's no denying... : 不可否认...
