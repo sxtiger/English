@@ -1072,3 +1072,10 @@
 - in floods of tears : 泪如雨下
 - call sb away : 把某人叫走
 - knock sb to the ground : 把某人击倒在地
+## Day67(6)
+- set sth on fire : 放火烧、使燃烧
+- be equal to sth : 同样的、相等的
+- in one's favor : 有利于某人
+- call sb names : 辱骂、谩骂
+- do sb justice : 公平对待某人、给以公正评价
+- give way to sth : 陷入（某种情绪）、（情感）失去控制
