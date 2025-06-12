@@ -1064,3 +1064,11 @@
 - have the goodness to... : 劳驾；请（用于客气的请求）
 - look at.as if... : 看着...好像...
 - there's no denying... : 不可否认...
+## Day66(7)
+- before long : 不久、很快
+- as much...as : 在同种程度上
+- leave sb alone : 不去打扰某人、让某人独自呆着
+- so to speak : 可以说
+- in floods of tears : 泪如雨下
+- call sb away : 把某人叫走
+- knock sb to the ground : 把某人击倒在地
