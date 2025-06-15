@@ -1079,3 +1079,15 @@
 - call sb names : 辱骂、谩骂
 - do sb justice : 公平对待某人、给以公正评价
 - give way to sth : 陷入（某种情绪）、（情感）失去控制
+## Day68(6)
+- seek one's fortune : 寻求成功致富之路、闯天下
+- make something of sb : 获得成功、事业有成
+- set forward : 动身、出发
+- set sb on sb : 使某人（动物）攻击某人
+- take pity on sb : 对...表示同情
+- every now and then : 偶尔、不时
+## Day69(4)
+- not in the least : 一点也不
+- by no means : 绝不、丝毫不
+- at one's heels : 紧跟某人
+- occupy one's attention : 占据某人的注意力

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Phrase.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English Phrase"
+              "title": "README"
             }
           }
         ]
@@ -171,16 +171,16 @@
   },
   "active": "da5464dfa24905c9",
   "lastOpenFiles": [
+    "English Phrase.md",
+    "flask_sessions/2029240f6d1128be89ddc32729463129",
     "README.md",
     "backups/2025-06/vocab_20250612.md",
     "backups/2025-06/vocab_20250612.xlsx",
-    "English Phrase.md",
     "Untitled Project.m4v",
     "backups/2025-06/vocab_20250608.md",
     "backups/2025-06/vocab_20250608.xlsx",
     "flask_sessions/3593c7f707ef5e35f9efe76b540633c0",
     "flask_sessions/90041aad2aba3efcef2d9735b6150185",
-    "flask_sessions/2029240f6d1128be89ddc32729463129",
     "backups/2025-06/vocab_20250606.md",
     "backups/2025-06/vocab_20250606.xlsx",
     "backups/2025-06/vocab_20250604.md",
