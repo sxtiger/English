@@ -1091,3 +1091,8 @@
 - by no means : 绝不、丝毫不
 - at one's heels : 紧跟某人
 - occupy one's attention : 占据某人的注意力
+## Day70(4)
+- divide sth between A and B : 将...分别用于
+- so + adj. + as to do sth : 如此...以至于
+- in order that : 为了，以便
+- but for : 若非，要不是
