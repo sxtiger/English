@@ -493,7 +493,7 @@
 ## Day05(9)
 - occur to sb : 被想到、出现在头脑中
 - put...away : 将....收起、积攒
-- alll the while : 一直、始终
+- all the while : 一直、始终
 - have difficulty doing : 做某事很困难
 - all at once : 同时
 - here and there : 到处、在各处
