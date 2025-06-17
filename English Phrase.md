@@ -1096,3 +1096,10 @@
 - so + adj. + as to do sth : 如此...以至于
 - in order that : 为了，以便
 - but for : 若非，要不是
+## Day71(6)
+- upon my word : 我敢发誓
+- throw a glance at : 朝...瞥了一眼
+- by and by : 不久、很快
+- as well : 还、也
+- up and down : 来回、往复
+- in the manner of 以...的风格
