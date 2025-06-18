@@ -1103,3 +1103,10 @@
 - as well : 还、也
 - up and down : 来回、往复
 - in the manner of 以...的风格
+## Day72(6)
+- in consequence of sth :由于...的缘故
+- at length : 最后
+- occur to sb : （想法或主意）浮现于脑海中
+- come across : （偶然）遇见、发现
+- pick one's pocket : 扒窃
+- on the point of : 正要...之际；就要...之时
