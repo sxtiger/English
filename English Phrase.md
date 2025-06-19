@@ -1110,3 +1110,8 @@
 - come across : （偶然）遇见、发现
 - pick one's pocket : 扒窃
 - on the point of : 正要...之际；就要...之时
+## Day73(4)
+- no sooner...than : 一...就
+- turn against sb : 背叛某人、与...反目
+- take up : 一齐说
+- make one's way : 行进
