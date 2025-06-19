@@ -1115,3 +1115,9 @@
 - turn against sb : 背叛某人、与...反目
 - take up : 一齐说
 - make one's way : 行进
+## Day74(5)
+- call to mind :  想起 
+- sort of : 有点像、好像
+- appear against sb : 出庭控告某人
+- hold one's tongue : 闭上嘴、保持沉默
+- take the oath : 宣誓
