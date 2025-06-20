@@ -266,7 +266,7 @@ if __name__ == '__main__':
     
     # 启动应用
     try:
-        app.logger.info("=== 启动语言测试系统 ===")
+        app.logger.info("=== 启动测试系统 ===")
         app.run(host='0.0.0.0', port=app.config['PORT'], ssl_context=context, debug=False)
     except Exception as e:
         app.logger.critical(f"系统启动失败: {str(e)}")
