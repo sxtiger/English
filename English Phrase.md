@@ -1121,3 +1121,17 @@
 - appear against sb : 出庭控告某人
 - hold one's tongue : 闭上嘴、保持沉默
 - take the oath : 宣誓
+## Day75(8)
+- in conclusion : 最后
+- stuff and nonsense : 胡说八道
+- make a fool of sb : 愚弄某人、令某人出洋相
+- for heaven's sake : 看在上帝的份上、天哪
+- out of breath : 上气不接下气
+- turn sb out : 赶走、逐走
+- catch up with sb : 抓住并惩罚（某人）
+- in a frenzy of sth : 处于...狂乱之中
+## Day76(4)
+- the same...as... : 和...相同的...
+- seem (to be) sth : 好像是
+- cannot help doing sth :（某人）情不自禁做某事
+- have got nothing to do with : 和...没有关系
