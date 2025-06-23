@@ -1135,3 +1135,13 @@
 - seem (to be) sth : 好像是
 - cannot help doing sth :（某人）情不自禁做某事
 - have got nothing to do with : 和...没有关系
+## Day77(9)
+- fix sth on sb/sth : 集中（目光）于
+- strike one's fancy : 对某人有吸引力
+- go through : 经历、经受（由指苦难或艰难时期）
+- a great variety of : 大量的、各种各样的
+- do sb good : （对某人）有好处
+- know not : （古语）不知道、不了解
+- run away : 逃离
+- come to a stop : 停止
+- a fit of laughter : 一阵笑
