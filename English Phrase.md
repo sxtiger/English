@@ -1145,3 +1145,14 @@
 - run away : 逃离
 - come to a stop : 停止
 - a fit of laughter : 一阵笑
+## Day78(10)
+- afford to : 负担得起，有能力做...
+- throw away : 扔掉，丢弃
+- out of humor : 心情不好
+- content oneself with sth : 满足、满意
+- cross one's mind : 掠过某人的脑海
+- lower oneself : 自降身份
+- get sb into trouble : 使自己或他人陷入困境
+- take notice of : 意、理会
+- out of sb's reach : 够不着，即距离比手臂长度远，不在某人的伸手范围内。
+- find out : 查明、弄清
