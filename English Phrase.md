@@ -1156,3 +1156,12 @@
 - take notice of : 意、理会
 - out of sb's reach : 够不着，即距离比手臂长度远，不在某人的伸手范围内。
 - find out : 查明、弄清
+## Day79(8)
+- to the delight of sb : 令某人高兴的是...
+- avoid doing sth : 避免做某事
+- keep to sth : 遵守（诺言）、坚持（计划）
+- in the middle of sth : 处于某事过程中
+- seem like : 好像、仿佛...
+- to tell the truth : 说实话、老实说
+- as bright as a button : 聪明活泼的
+- be seated : 坐下、坐着
