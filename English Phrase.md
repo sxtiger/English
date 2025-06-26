@@ -1165,3 +1165,12 @@
 - to tell the truth : 说实话、老实说
 - as bright as a button : 聪明活泼的
 - be seated : 坐下、坐着
+## Day80(8)
+- by far : 程度或数量上的巨大优势或差异
+- in a...manner : 以...的方式
+- speak of sth : 提起、讲述
+- call after : 跟在...后面叫（以引起注意）
+- pay sb for sth : 付款、付钱给（某人）
+- take sth back : 退回（从商店里购买的货物）
+- determined to do : 决心做
+- grow+adj. : 逐渐变得、逐渐成为
