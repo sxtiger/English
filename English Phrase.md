@@ -1174,3 +1174,15 @@
 - take sth back : 退回（从商店里购买的货物）
 - determined to do : 决心做
 - grow+adj. : 逐渐变得、逐渐成为
+## Day81(11)
+- occupy sb in : 使忙于（做某事）、忙着（做某事）
+- appear to do sth : 好像、显得
+- in time to do sth : 及时做某事
+- critical point : 临界点
+- one or other : 不管哪一个
+- come in : 参与
+- put on : 假装、装出
+- many a sth : 很多、许多
+- be lost upon sb : 未得到某人注意
+- honor sb for sth : 为某事给予表扬
+- complete with sth : 装备有某物
