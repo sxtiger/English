@@ -1186,3 +1186,9 @@
 - be lost upon sb : 未得到某人注意
 - honor sb for sth : 为某事给予表扬
 - complete with sth : 装备有某物
+## Day82(5)
+- be on one's way to : 在...路上
+- on one's account : 为了某人的缘故
+- none other than : 竟然
+- twenty  times : 很多次
+- sit up : 深夜未眠、熬夜
