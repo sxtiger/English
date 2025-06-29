@@ -1192,3 +1192,12 @@
 - none other than : 竟然
 - twenty  times : 很多次
 - sit up : 深夜未眠、熬夜
+## Day83(8)
+- attach oneself to : 缠着、和...在一起
+- without delay : 立刻、毫不迟疑地
+- to the contrary : 正相反的、恰恰相反的
+- struggle through : 奋力通过
+- as good as dead : 和死了差不多
+- might as well : 最好还是、倒不如...
+- hold the position : 担任职业
+- in a ruinous condition : 破败的状态
