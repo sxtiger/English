@@ -1201,3 +1201,13 @@
 - might as well : 最好还是、倒不如...
 - hold the position : 担任职业
 - in a ruinous condition : 破败的状态
+## Day84(9)
+- jump to one's feet : 一跃而起
+- go through : 翻阅
+- set sth on fire : 把某物点燃
+- pretend to do sth : 假装做某事
+- in desperation : 绝望之际
+- for fear (that) : 恐怕、生怕
+- in confusion : 一头雾水、困窘地
+- keep back sb : 使某人保持距离、与...保持距离
+- tear sth to pieces : 把某物撕成碎片
