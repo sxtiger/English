@@ -1218,3 +1218,9 @@
 - at stake : 处于危险境地
 - pour out : 倾吐、毫无保留地诉说
 - get on : 取得成功
+## Day86(5)
+- to...extent : 在...程度上
+- conclude by doing sth : 以做某事作为结束
+- happen to do sth : 碰巧做某事
+- make out : （勉强地）辨认出
+- be keen to do sth : 渴望做某事
