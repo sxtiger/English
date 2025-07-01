@@ -1211,3 +1211,10 @@
 - in confusion : 一头雾水、困窘地
 - keep back sb : 使某人保持距离、与...保持距离
 - tear sth to pieces : 把某物撕成碎片
+## Day85(6)
+- be the worse for : 受到...的伤害
+- in good time : 提前、提早
+- keep clear of : 避升、躲开
+- at stake : 处于危险境地
+- pour out : 倾吐、毫无保留地诉说
+- get on : 取得成功
