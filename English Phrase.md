@@ -1224,3 +1224,12 @@
 - happen to do sth : 碰巧做某事
 - make out : （勉强地）辨认出
 - be keen to do sth : 渴望做某事
+## Day87(8)
+- out of consideration for sb : 考虑到某人、出于体恤某人
+- reduce sth to sth : 将...简化內
+- in a nutshell : 概括的说、简要的说
+- take sb's word for : 接受某人所说的话
+- be calculated to do sth : 旨在做某事、用意在于
+- in spite of : 尽管、不管
+- in search of : 寻找某物
+- on behalf of sb : 为了某人、因为某人
