@@ -1233,3 +1233,11 @@
 - in spite of : 尽管、不管
 - in search of : 寻找某物
 - on behalf of sb : 为了某人、因为某人
+## Day88(7)
+- bid sb (to) do sth : 告诉/请（某人做某事）
+- get the better of sb : 打败（某人）
+- except for : 除了
+- in the first place : 首先、最初
+- go about sth : 做某事、处理某事
+- get over : 克服（困难）
+- be on the safe side : 为安全起见、为了稳妥
