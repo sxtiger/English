@@ -1241,3 +1241,12 @@
 - go about sth : 做某事、处理某事
 - get over : 克服（困难）
 - be on the safe side : 为安全起见、为了稳妥
+## Day89(8)
+- come about : 发生、产生
+- take pains : 煞费苦心
+- out of the way : 结束、处理完
+- hold sb responsible : 认为某人应该（为某事）负责、唯某人试问
+- cover oneself up : 增添衣服
+- feel one's way : （在黑暗中）摸索着走动
+- serve to do sth : 起作用、产生效果
+- call up sth : 使回忆起、使想起
