@@ -1255,3 +1255,12 @@
 - place emphasis on sth : 强调某事、注重某物
 - gasp for breath : 上气不接下气
 - pull away : 快速躲开、闪避（某人）
+## Day91(8)
+- cast a glance : 瞅一眼
+- bring oneself to do sth : 强迫某人做某事
+- make up one's mind : 做出决定、下定决心
+- take trouble to do sth : 尽心尽力去做某事、费力去做某事
+- for one's own good : 为了某人好
+- tell tales : 打小报告
+- take one's chance : 冒险
+- lengthen out : 过分延长
