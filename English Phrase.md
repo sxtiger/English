@@ -1250,3 +1250,8 @@
 - feel one's way : （在黑暗中）摸索着走动
 - serve to do sth : 起作用、产生效果
 - call up sth : 使回忆起、使想起
+## DAY90(4)
+- read sb's thoughts :猜测某人的心思
+- place emphasis on sth : 强调某事、注重某物
+- gasp for breath : 上气不接下气
+- pull away : 快速躲开、闪避（某人）
