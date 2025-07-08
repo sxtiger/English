@@ -1264,3 +1264,13 @@
 - tell tales : 打小报告
 - take one's chance : 冒险
 - lengthen out : 过分延长
+## Day92(9)
+- mend the fire : 添柴火
+- rest upon :凝视、（目光）落在...上
+- throw light upon sth : 使人了解某事、使某事显得非常的清楚
+- tend to : 倾向于；往往会
+- in hopes of : 希望能...、怀着...的希望
+- Bless his heart : 愿主保佑他
+- all along : 一直、至始至终
+- catch at : 试图抓住
+- be favorable to : 对...有利的
