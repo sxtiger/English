@@ -1274,3 +1274,11 @@
 - all along : 一直、至始至终
 - catch at : 试图抓住
 - be favorable to : 对...有利的
+## Day93(7)
+- get over :（从疾病或不愉快的事）中恢复过来
+- in the back of one's mind : 在潜意识里
+- hear sb out : 听某人说完
+- made sb's flesh creep : 使某人起鸡皮疙瘩、使某人毛骨悚然
+- give up : 交出、让出
+- deliver up : 交出、交付
+- turn upon sb : 突然袭击某人
