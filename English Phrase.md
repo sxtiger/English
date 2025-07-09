@@ -1282,3 +1282,12 @@
 - give up : 交出、让出
 - deliver up : 交出、交付
 - turn upon sb : 突然袭击某人
+## Day94(8)
+- safe from : 免受...的伤害、不会遭到...的危险
+- do sb a service : 有助于某人
+- pour out : 涌出、涌现
+- make for : 向...移动
+- the dead of night : 深夜
+- look to : 留心、留意
+- find fault with sb : 挑剔某人、找某人的麻烦
+- have got to do sth : 必须、不得不
