@@ -1291,3 +1291,8 @@
 - look to : 留心、留意
 - find fault with sb : 挑剔某人、找某人的麻烦
 - have got to do sth : 必须、不得不
+## Day95(4)
+- for want of sth : 因为缺乏...
+- rouse sb to sth : 激起（恐惧、愤怒等等）
+- spill sb's blood : 使流血、伤害
+- upon my soul : 凭良心说，发誓
