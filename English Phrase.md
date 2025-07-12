@@ -1296,3 +1296,12 @@
 - rouse sb to sth : 激起（恐惧、愤怒等等）
 - spill sb's blood : 使流血、伤害
 - upon my soul : 凭良心说，发誓
+## Day96(8)
+- lead a...life : 过上...的生活（方式）
+- march up : 朝....行进，登上...
+- in honor of : 为了纪念...
+- turn down : 转向（某个方向）
+- hang back : 犹豫、踌躇不前
+- compared to sth : 与某物相比
+- lie low : 躲藏
+- creep upon sb : 不知不觉产生
