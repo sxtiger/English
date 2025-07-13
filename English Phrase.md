@@ -1305,3 +1305,16 @@
 - compared to sth : 与某物相比
 - lie low : 躲藏
 - creep upon sb : 不知不觉产生
+## Day97(7)
+- get rid of : 摆脱、丢弃
+- give sb away : 泄露、暴露
+- branch off : （道路）岔开、分岔
+- hesitate to do sth : 犹豫做某事
+- eat away : 侵蚀
+- right-hand man : 得力助手、左膀右臂
+- break open 砸开、撬开
+## Day98(4)
+- shake in one's boots : 吓得发抖
+- do your worst : 有什么手段尽管使出来
+- block up : 阻挡、堵塞
+- collect oneself : （尽力）镇定下来、定神
