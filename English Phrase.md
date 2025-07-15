@@ -1318,3 +1318,5 @@
 - do your worst : 有什么手段尽管使出来
 - block up : 阻挡、堵塞
 - collect oneself : （尽力）镇定下来、定神
+## Day99(1)
+- touch one's hat : 举手触帽敬礼
