@@ -1320,3 +1320,8 @@
 - collect oneself : （尽力）镇定下来、定神
 ## Day99(1)
 - touch one's hat : 举手触帽敬礼
+## Day100(4)
+- ring in one's ears : 在耳边回响
+- a shred of sth : 一丁点、丝毫
+- a certain : 某某、某个
+- throw sb out of sth : 撵走、开除、解雇某人
