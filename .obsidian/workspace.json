@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,6 +170,9 @@
   },
   "active": "da5464dfa24905c9",
   "lastOpenFiles": [
+    "backups/2025-07/vocab_20250722.xlsx",
+    "backups/2025-07/vocab_20250722.md",
+    "backups/2025-07",
     "README.md",
     "English Phrase.md",
     "flask_sessions/ea18f3291ff97b92df8c93cdd8df6903",
@@ -186,7 +188,6 @@
     "flask_sessions/3593c7f707ef5e35f9efe76b540633c0",
     "flask_sessions/90041aad2aba3efcef2d9735b6150185",
     "backups/2025-06/vocab_20250606.md",
-    "backups/2025-06/vocab_20250606.xlsx",
     "backups/2025-06/vocab_20250604.md",
     "photos/11.jpg",
     "photos/12.jpg",
