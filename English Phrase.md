@@ -1332,3 +1332,11 @@
 - put up with sb/sth : 容忍、忍受
 - whip sth off/out/back etc. : 突然移动(挪开)某物
 - plunge sth into sth : 把某物投(插、刺)入某物中
+## Day02(7)
+- make up one's mind : 做出决定、下定决心
+- cut down : 减少、缩减
+- out of a job : 失业的、被解雇的
+- bring up : 抚养、养育、教养
+- burst out : 突然开始(做某事)
+- talk over : 详细探讨、坦诚交谈
+- let sb/sth down : 使失望、辜负(别人的信任或期望)
