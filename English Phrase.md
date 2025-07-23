@@ -1340,3 +1340,9 @@
 - burst out : 突然开始(做某事)
 - talk over : 详细探讨、坦诚交谈
 - let sb/sth down : 使失望、辜负(别人的信任或期望)
+## Day03(5)
+- in vain : 徒劳地
+- single out : 单独挑出、特别选出
+- on hand : 待处理、需要办理
+- break into sth : 突然开始做...
+- let sb/sth down : 使失望、辜负(别人的信任或期望)
