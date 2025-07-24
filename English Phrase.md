@@ -1346,3 +1346,10 @@
 - on hand : 待处理、需要办理
 - break into sth : 突然开始做...
 - let sb/sth down : 使失望、辜负(别人的信任或期望)
+## Day04(6)
+- be/work to your advantage : 对...有利
+- think sth up : 想出、构思出(新主意、名字等)
+- make sb/sth into sb/sth : 把...变成
+- in a/one sense : 在某种意义上
+- stretch sth out : 伸出、伸开(手、脚等)
+- run through sth : 快速穿越、迅速传遍
