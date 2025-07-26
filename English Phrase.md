@@ -1353,3 +1353,8 @@
 - in a/one sense : 在某种意义上
 - stretch sth out : 伸出、伸开(手、脚等)
 - run through sth : 快速穿越、迅速传遍
+## Day05(4)
+- see through sb/sth : 看透、识破
+- count one's pennies : 关心花了多少钱
+- turn sb/sth down : 拒绝、顶回(提议、建议或提议人)
+- help yourself to sth : 擅自拿走、窃取
