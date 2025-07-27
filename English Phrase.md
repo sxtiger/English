@@ -1358,3 +1358,10 @@
 - count one's pennies : 关心花了多少钱
 - turn sb/sth down : 拒绝、顶回(提议、建议或提议人)
 - help yourself to sth : 擅自拿走、窃取
+## Day06(6)
+- turn up : 偶然出现、到来
+- cut in (on sb/sth) : 打断(谈话)、插嘴
+- come off (sth) : 与...分离(或分开)
+- run errands : 跑腿、出门办事
+- smooth sth out : (用手)弄平、把...弄平整
+- that's the ticket : 所需要的东西、一切正好
