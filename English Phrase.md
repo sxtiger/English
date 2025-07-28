@@ -1365,3 +1365,9 @@
 - run errands : 跑腿、出门办事
 - smooth sth out : (用手)弄平、把...弄平整
 - that's the ticket : 所需要的东西、一切正好
+## Day07(5)
+- bark out : 大声嚷、吼叫
+- in time : 及时(做某事)
+- in advance (of sth) : 预先、提前、在某事发生之前
+- have an eye for sth : 对...有鉴赏力(或识别力、眼力)
+- not in the least : 一点也不、丝毫不
