@@ -1371,3 +1371,10 @@
 - in advance (of sth) : 预先、提前、在某事发生之前
 - have an eye for sth : 对...有鉴赏力(或识别力、眼力)
 - not in the least : 一点也不、丝毫不
+## Day08(6)
+- come up : 走进、接近
+- out of breath : 喘不过气、上气不接下气
+- be rolling (in money) : 非常富裕、在钱里打滚
+- make time : 腾出时间
+- move off : 离开、离去
+- break out : 突然开始、爆发
