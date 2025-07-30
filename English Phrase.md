@@ -1378,3 +1378,8 @@
 - make time : 腾出时间
 - move off : 离开、离去
 - break out : 突然开始、爆发
+## Day09(4)
+- tell of : 公布、说明
+- draw back : 往后闪、后退
+- stop dead : (使)突然停止(发生或移动)
+- run into sb : 偶然遇见、碰到(某人)
