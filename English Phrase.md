@@ -1383,3 +1383,15 @@
 - draw back : 往后闪、后退
 - stop dead : (使)突然停止(发生或移动)
 - run into sb : 偶然遇见、碰到(某人)
+## Day10(5)
+- as though : 似乎、仿佛、好像
+- out of the way : (用于否定句)奇特的、不寻常的、罕见的
+- to one's feet : 起立、站起
+- at sb's service : 随时可供使用(或可以帮助)
+- in need of : 需要(某物)
+## Day11(5)
+- what of it : (承认某事属实、想知道为何重要)那又怎么样呢、那有什么关系呢
+- as far as l can see : 依我看
+- put up with sth/sb : 忍受、忍耐
+- sb can (not) help (doing) sth/sb can not help but do sth : 某人忍不住(或无法抑制)做某事、不可能避免某事
+- be hard on sb : 对(某人)严厉批评、对(某人)不公平
