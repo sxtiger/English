@@ -1395,3 +1395,20 @@
 - put up with sth/sb : 忍受、忍耐
 - sb can (not) help (doing) sth/sb can not help but do sth : 某人忍不住(或无法抑制)做某事、不可能避免某事
 - be hard on sb : 对(某人)严厉批评、对(某人)不公平
+## Day12(4)
+- reason with sb : 和某人讲道理、规劝
+- deny yourself : 节制、克制
+- have something at one's feet : 掌握、控制
+- stoop to sth : 卑鄙到做…的地步、堕落到做…的地步
+## Day13(5)
+- ring out : 响亮地发出、清晰地响起
+- in any case : 无论如何、不管怎样
+- more or less : 或多或少、在一定程度上
+- refer sb to sth 让(某人)求助于、让(某人)向...查询、将(某人)送交给
+- and (all) that : 等等、以及诸如此类的事物
+## Day14(5)
+- break off : 突然停止说话
+- catch/touch sb on the raw : (说话或做事)触及某人的痛处
+- sell out : 卖光
+- on someonne's account : 为(某人)着想
+- run across sb/sth : 偶然遇见(或看到)
