@@ -1412,3 +1412,13 @@
 - sell out : 卖光
 - on someonne's account : 为(某人)着想
 - run across sb/sth : 偶然遇见(或看到)
+## Day15(4)
+- run into : 偶然碰见
+- come up : 被提到、被提起
+- set off : 出发、启程、动身
+- at (…) intervals:  每隔…时间、间或、不时
+## Day16(4)
+- off with sth : (命令某人)去掉、除去
+- be sb's affair : 是某人自己的事
+- burst into sth : 突然爆发
+- on no account : 决不、绝对不、切莫
