@@ -1422,3 +1422,12 @@
 - be sb's affair : 是某人自己的事
 - burst into sth : 突然爆发
 - on no account : 决不、绝对不、切莫
+## Day17(4)
+- come to rest : 终于停止移动
+- on board : 在船上(或飞机上、火车上)
+- in spite of sth : 不管、尽管
+- by/at someone's side : 在某人身边(尤指给某人安慰或精神支持)
+## Day18(3)
+- make use of : 使用、利用
+- come up to sth : 达到(一般或必要的标准)
+- embark on/upon sth :n 从事、着手、开始(新的或艰难的事情)
