@@ -1431,3 +1431,14 @@
 - make use of : 使用、利用
 - come up to sth : 达到(一般或必要的标准)
 - embark on/upon sth :n 从事、着手、开始(新的或艰难的事情)
+## Day19(5)
+- call a halt : 要求停止、命令停止
+- get over : (从病痛，苦恼，惊吓中)恢复过来
+- make a/the difference : 有作用、有影响
+- do someone/thing down : (多指用卑鄙手段)打败、压倒、制服、欺骗
+- settle (down) to sth : 开始认真对待、定下心来做
+## Day20(4)
+- in return : 作为交换、作为回报
+- at large : 普遍地、全体地
+- run into sb/sth : 撞上
+- sea legs : 在行使的船上保持平衡、不晕船的本领
