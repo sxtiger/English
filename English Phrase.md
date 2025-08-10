@@ -1442,3 +1442,9 @@
 - at large : 普遍地、全体地
 - run into sb/sth : 撞上
 - sea legs : 在行使的船上保持平衡、不晕船的本领
+## Day21(5)
+- cull sth from sth : 选出、挑出、采集
+- and (all) that : 等等、以及诸如此类的事物
+- come over (to...)(from...) : (通常远距离地)从...到、从...来
+- come across sb/sth : (偶然)遇见、碰见、发现
+- run into : 偶然碰见
