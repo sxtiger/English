@@ -1448,3 +1448,8 @@
 - come over (to...)(from...) : (通常远距离地)从...到、从...来
 - come across sb/sth : (偶然)遇见、碰见、发现
 - run into : 偶然碰见
+## Day22(4)
+- a close/near thing : 几乎发生的事
+- stop dead : 突然停止(运动、说话、动作)
+- in sight : 看得见的
+- confide in sb : 向(可信赖的人)透露秘密(或个人隐私)
