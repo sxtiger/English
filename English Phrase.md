@@ -1453,3 +1453,8 @@
 - stop dead : 突然停止(运动、说话、动作)
 - in sight : 看得见的
 - confide in sb : 向(可信赖的人)透露秘密(或个人隐私)
+## Day23(4)
+- one's idea of sth : (某人)心目中的...
+- screw up one's eyes/face : 眯起眼睛/扭歪脸
+- come across sb/sth : (偶然)遇见、碰见、发现
+- end in sth : 以...結局、末端是
