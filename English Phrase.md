@@ -1458,3 +1458,8 @@
 - screw up one's eyes/face : 眯起眼睛/扭歪脸
 - come across sb/sth : (偶然)遇见、碰见、发现
 - end in sth : 以...結局、末端是
+## Day24(4)
+- stand out (from/against sth) : 显眼、突出
+- get over sth : 解决、克服、控制
+- catch (sb) up : 赶上(某人)
+- deal with sth : 关于、涉及、论述
