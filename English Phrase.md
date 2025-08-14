@@ -1463,3 +1463,9 @@
 - get over sth : 解决、克服、控制
 - catch (sb) up : 赶上(某人)
 - deal with sth : 关于、涉及、论述
+## Day25(5)
+- under one's breath : 低声地、経声地
+- make a night of it : 痛快地玩一晚上、决定花整晚做愉快的事情
+- do sb wrong : 冤枉某人、不公平地对待某人
+- stick together : 相互支持、团结一致
+- make a fool of oneself : 出丑、出洋相
