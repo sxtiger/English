@@ -1469,3 +1469,7 @@
 - do sb wrong : 冤枉某人、不公平地对待某人
 - stick together : 相互支持、团结一致
 - make a fool of oneself : 出丑、出洋相
+## Day26(3)
+- get (a) hold of sb : 找到某人、联系上某人
+- take charge : 掌控、负责
+- pull sth on : (迅速地)穿上、戴上
