@@ -1473,3 +1473,11 @@
 - get (a) hold of sb : 找到某人、联系上某人
 - take charge : 掌控、负责
 - pull sth on : (迅速地)穿上、戴上
+## Day27(1)
+- make of sth/sb : 看待、理解
+## Day28(5)
+- in sb's hands : 受某人照料、受某人控制
+- at sb's disposal : 任某人处理、供某人任意使用、由某人自行支配
+- kind of : 稍微、有几分、有点儿
+- so to speak : 姑妄言之、可以说
+- to death : 至死、直到死亡
