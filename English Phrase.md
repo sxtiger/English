@@ -1481,3 +1481,8 @@
 - kind of : 稍微、有几分、有点儿
 - so to speak : 姑妄言之、可以说
 - to death : 至死、直到死亡
+## Day29(4)
+- out of sight : 看不见了
+- turn in : 上床睡觉
+- bring sb/sth along : 带上、带来
+- get hold of : 找到(某人)、得到
