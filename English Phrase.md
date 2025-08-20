@@ -1486,3 +1486,8 @@
 - turn in : 上床睡觉
 - bring sb/sth along : 带上、带来
 - get hold of : 找到(某人)、得到
+## Day30(4)
+- there, there! : (劝说小孩不要啼哭或沮丧)好了、好了
+- do sb/oneself in : 杀死、干掉(某人)、自杀
+- play the market : 股票投机
+- get it in the neck : 受到严厉谴责(或惩罚)
