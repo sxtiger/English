@@ -1491,3 +1491,8 @@
 - do sb/oneself in : 杀死、干掉(某人)、自杀
 - play the market : 股票投机
 - get it in the neck : 受到严厉谴责(或惩罚)
+## Day31(4)
+- put something out : 关掉(灯)
+- I take it : 我自认为、我以为、我猜测
+- cry out : (由于害怕、震惊、疼痛等而)大声喊叫
+- come to sb : 被想出
