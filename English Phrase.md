@@ -1496,3 +1496,8 @@
 - I take it : 我自认为、我以为、我猜测
 - cry out : (由于害怕、震惊、疼痛等而)大声喊叫
 - come to sb : 被想出
+## Day32(4)
+- as regards : 关于、就...而论、在...方面
+- make sense : 解释得通、有道理
+- break off : 停顿、中断
+- through and through : 完全、彻底
