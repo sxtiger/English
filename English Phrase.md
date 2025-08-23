@@ -1501,3 +1501,6 @@
 - make sense : 解释得通、有道理
 - break off : 停顿、中断
 - through and through : 完全、彻底
+## Day33(2)
+- all right ： 确实、的确
+- as to sth ： 关于
