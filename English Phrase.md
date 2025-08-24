@@ -1504,3 +1504,7 @@
 ## Day33(2)
 - all right ： 确实、的确
 - as to sth ： 关于
+## Day34(3)
+- pore over sth : 仔细打量、审视、认真研读、审阅
+- call on/upon sb/sth : 短暂访问
+- be plain/clear sailing : 顺利、一帆风顺
