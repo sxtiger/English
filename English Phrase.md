@@ -1508,3 +1508,7 @@
 - pore over sth : 仔细打量、审视、认真研读、审阅
 - call on/upon sb/sth : 短暂访问
 - be plain/clear sailing : 顺利、一帆风顺
+## Day35(3)
+- the job/matter in hand : 当前重要的事务
+- for certain : 肯定、确定、无疑
+- put out : 熄灭、扑灭
