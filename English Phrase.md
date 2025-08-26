@@ -1517,3 +1517,4 @@
 - on the face of it ： 从表面看、乍看起来
 - doze off :(尤指在日间)打瞌睡、打盹儿
 - see to sth : 办理、照管、料理
+- 
