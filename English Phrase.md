@@ -1512,3 +1512,8 @@
 - the job/matter in hand : 当前重要的事务
 - for certain : 肯定、确定、无疑
 - put out : 熄灭、扑灭
+## Day36(4)
+- get sb down ： 使某人忧郁、使某人沮丧
+- on the face of it ： 从表面看、乍看起来
+- doze off :(尤指在日间)打瞌睡、打盹儿
+- see to sth : 办理、照管、料理
