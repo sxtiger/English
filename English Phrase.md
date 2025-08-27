@@ -1517,4 +1517,8 @@
 - on the face of it ： 从表面看、乍看起来
 - doze off :(尤指在日间)打瞌睡、打盹儿
 - see to sth : 办理、照管、料理
-- 
+## Day37(4)
+- clear something up : 解决、解释、澄清
+- sb's labours : 某人的辛勤劳动
+- fit in : (东西)与...一致、符合
+- all the same : 尽管如此
