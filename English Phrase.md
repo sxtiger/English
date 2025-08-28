@@ -1522,3 +1522,7 @@
 - sb's labours : 某人的辛勤劳动
 - fit in : (东西)与...一致、符合
 - all the same : 尽管如此
+## Day38(3)
+- take no notice : 不注意
+- at a loss : 不知所措
+- burst out : 突然说出、大声喊出
