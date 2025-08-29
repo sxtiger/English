@@ -1526,3 +1526,9 @@
 - take no notice : 不注意
 - at a loss : 不知所措
 - burst out : 突然说出、大声喊出
+## Day39(5)
+- go through with sth : 完成(或做完)艰难(或令人不快)的事
+- make up one's mind / make one's mind up : 做出决定、下定决心
+- I expect : 我认为、我猜想
+- quite the contrary : 完全相反、完全不同、根本不是
+- in question : 讨论(或议论)中的
