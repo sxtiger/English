@@ -1532,3 +1532,13 @@
 - I expect : 我认为、我猜想
 - quite the contrary : 完全相反、完全不同、根本不是
 - in question : 讨论(或议论)中的
+## Day40(5)
+- at once : 立即、马上
+- come out : 被获知、为人所知
+- just the same : 仍然、依然、照样
+- on the alert : 警惕着
+- to the extent of : (表示强调)到...的地步、到...的程度
+## Day41(3)
+- suit someone's book : 対...方便(或合适)、合...的意
+- all out : 尽力、全力以赴
+- travel light : 轻装旅行
