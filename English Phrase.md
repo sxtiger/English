@@ -1542,3 +1542,7 @@
 - suit someone's book : 対...方便(或合适)、合...的意
 - all out : 尽力、全力以赴
 - travel light : 轻装旅行
+## Day42(3)
+- in the extreme : 极端、极度、非常
+- what/where/who/why/etc. the devil... : (用于问句表示烦恼或吃惊）究竟...、到底...
+- off sb's feed : 没胃口
