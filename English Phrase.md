@@ -1546,3 +1546,8 @@
 - in the extreme : 极端、极度、非常
 - what/where/who/why/etc. the devil... : (用于问句表示烦恼或吃惊）究竟...、到底...
 - off sb's feed : 没胃口
+## Day43(4)
+- a good/great deal : 很
+- come across : 偶然遇见、偶然发现
+- in broad daylight : 大白天、在光天化日之下
+- odds and ends : 琐碎物品、零星杂物
