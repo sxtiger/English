@@ -1551,3 +1551,7 @@
 - come across : 偶然遇见、偶然发现
 - in broad daylight : 大白天、在光天化日之下
 - odds and ends : 琐碎物品、零星杂物
+## Day44(3)
+- close on/to : 接近、几乎、差不多
+- as it is : 事实上、实际情况是
+- keep sth back (from) sb : 拒绝告知某事、隐瞒
