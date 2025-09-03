@@ -1555,3 +1555,8 @@
 - close on/to : 接近、几乎、差不多
 - as it is : 事实上、实际情况是
 - keep sth back (from) sb : 拒绝告知某事、隐瞒
+## Day45(4)
+- in return : 作交换、作为回报
+- dear me : (表示伤心、失望或吃惊)啊呀、哎哟、天哪
+- in sb's favour : 对某人有利
+- under your breath : 低声地、压低嗓门地
