@@ -1560,3 +1560,7 @@
 - dear me : (表示伤心、失望或吃惊)啊呀、哎哟、天哪
 - in sb's favour : 对某人有利
 - under your breath : 低声地、压低嗓门地
+## Day46(3)
+- fit into sth : 成为...的一部分
+- clear sth up : 解决、解答、解释
+- puzzle over/about sth : 苦苦思索、仔细琢磨
