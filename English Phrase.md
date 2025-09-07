@@ -1568,3 +1568,7 @@
 - be skating on thin ice : 如履薄冰、冒险
 - run into sb/sth : 撞上
 - be to blame (for sth) : 对(坏事)负有责任
+##  Day48(3)
+- cling to sth : 坚持、保持、死死抱住(信念或希望)
+- get away (from) : (得以)离开、脱身
+- look on/upon sb as sth : 将(某人)视为...、把(某人)看作...
