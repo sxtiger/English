@@ -1572,3 +1572,8 @@
 - cling to sth : 坚持、保持、死死抱住(信念或希望)
 - get away (from) : (得以)离开、脱身
 - look on/upon sb as sth : 将(某人)视为...、把(某人)看作...
+## Day49(4)
+- be out of your senses : 失去了理智
+- on the whole : 总的来说、大体上、基本上
+- be rolling (in money) : 非常富有、在钱里打滚
+- butt in : 打断谈话(或讨论)、插话、插嘴
