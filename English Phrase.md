@@ -1577,3 +1577,8 @@
 - on the whole : 总的来说、大体上、基本上
 - be rolling (in money) : 非常富有、在钱里打滚
 - butt in : 打断谈话(或讨论)、插话、插嘴
+##  Day50(4)
+- go about : 着手干、做、处理
+- a good few/many : 许多、大量
+- every time : 无论何时、一有机会
+- take a/the hint : 领会暗示
