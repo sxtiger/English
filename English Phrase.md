@@ -1582,3 +1582,7 @@
 - a good few/many : 许多、大量
 - every time : 无论何时、一有机会
 - take a/the hint : 领会暗示
+## Day51(3)
+- on terms : 友好、关系良好、在平等地位上
+- catch/touch sb on the raw : (说话或做事)触及某人的痛处
+- in confidence : 私下地、秘密地
