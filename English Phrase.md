@@ -1586,3 +1586,7 @@
 - on terms : 友好、关系良好、在平等地位上
 - catch/touch sb on the raw : (说话或做事)触及某人的痛处
 - in confidence : 私下地、秘密地
+## Day52(3)
+- go on doing sth : 不停地做某事
+- the real thing : 千真万确的事情
+- be on arazor edge : 处于非常危险的困境、境况岌岌可危
