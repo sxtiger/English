@@ -1590,3 +1590,7 @@
 - go on doing sth : 不停地做某事
 - the real thing : 千真万确的事情
 - be on arazor edge : 处于非常危险的困境、境况岌岌可危
+## Day53(3)
+- in question : 讨论(或议论)中的
+- take one's medicine : 接受惩罚(或令人讨厌的事物)
+- all the more reason why/do sth : 更有理由做某事
