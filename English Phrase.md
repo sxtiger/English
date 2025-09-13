@@ -1594,3 +1594,8 @@
 - in question : 讨论(或议论)中的
 - take one's medicine : 接受惩罚(或令人讨厌的事物)
 - all the more reason why/do sth : 更有理由做某事
+## Day54(4)
+- clear up : 解決、解程、澄清
+- come out : (消息、真相等)被获知、为人所知
+- quiet down : (使)安静、(使)平静下来
+- stick to : 坚持、固守、忠于
