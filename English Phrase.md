@@ -1599,3 +1599,12 @@
 - come out : (消息、真相等)被获知、为人所知
 - quiet down : (使)安静、(使)平静下来
 - stick to : 坚持、固守、忠于
+## Day55(4)
+- stand up to : 经得住
+- break off : 突然停止说话
+- on sb's part / on the part of sb : 某人所做(感觉)的、就某人而言
+- for a change : 与惯常相反、为了变变花样
+##  Day56(3)
+- short of : 除...之外
+- have a temperature : 发烧
+- in the grip of : 处于不快却无法制止的境遇、受制于某事
