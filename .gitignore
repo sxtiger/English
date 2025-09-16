@@ -1,7 +1,8 @@
-.obsidian/workspace.json
 .DS_Store
 *.pem
 exam.py
 *.txt
 backups/
 photos/
+.obsidian/
+__pycache__/
