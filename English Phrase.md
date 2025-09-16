@@ -1608,3 +1608,7 @@
 - short of : 除...之外
 - have a temperature : 发烧
 - in the grip of : 处于不快却无法制止的境遇、受制于某事
+##  Day57(3)
+- wash (sth) out : 洗掉、洗净(颜色或污迹)
+- hold one's tongue : 保持沉默
+- call attention to : 引起人们注意
