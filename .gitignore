@@ -4,3 +4,4 @@ backups/
 photos/
 .obsidian/
 __pycache__/
+flask_sessions/
